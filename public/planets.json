@@ -1,0 +1,49 @@
+{
+    "planets": [
+        {
+            "name": "Mercury",
+            "area": 7.48e7,
+            "dwarf": false
+        },
+        {
+            "name": "Venus",
+            "area": 4.60e8,
+            "dwarf": false
+        },
+        {
+            "name": "Earth",
+            "area": 5.100656e8,
+            "dwarf": false
+        },
+        {
+            "name": "Mars",
+            "area": 1.44798465e8,
+            "dwarf": false
+        },
+        {
+            "name": "Jupiter",
+            "area": 6.21796e10,
+            "dwarf": false
+        },
+        {
+            "name": "Saturn",
+            "area": 4.27e10,
+            "dwarf": false
+        },
+        {
+            "name": "Uranus",
+            "area": 8.1156e9,
+            "dwarf": false
+        },
+        {
+            "name": "Neptune",
+            "area": 7.6408e9,
+            "dwarf": false
+        },
+        {
+            "name": "Pluto",
+            "area": 1.664794e7,
+            "dwarf": true
+        }
+    ]
+}
